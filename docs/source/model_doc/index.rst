@@ -455,8 +455,14 @@ Upcoming changes
      - Summary
      - Required actions
 
-   * - 2026-11-??
-     - 
+   * - 2026 - December
+     - Release of Ensemble predictions
+     - * None
+       * The new products are distributed in separate files
+
+   * - 2027 - February
+     - * Improved river temperature
+       * New source of driver data at boundary in North Sea
      - None
 
 
